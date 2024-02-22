@@ -24,12 +24,12 @@ const user = {
         street: {
             first: "sultan mor",
             second:"Daka mor",
-            third:[{
+            third:{
                 start: "khulna",
                 end:"barishal"
-            }]
+            }
         }
     }
 }
-
-console.log(user.addess.street.third[0].end);
+console.log( user.id)
+console.log(user.addess.street.sawon?.third.end);
