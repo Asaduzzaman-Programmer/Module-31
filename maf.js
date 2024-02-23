@@ -10,3 +10,4 @@ for (const num of sonkha){
 }
 
 // console.log(...sonkhaDouble)
+
