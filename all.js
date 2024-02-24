@@ -53,3 +53,6 @@ const bonus = double.map(x => x + 5)
 console.log(bonus);
 const bonus2 = numbers.map(num => num+5)
 console.log(bonus)
+
+const numberos = [1, 2, 3, 4, 5, 6];
+const resulot = numberos.forEach(n => console.log(n);)
