@@ -43,9 +43,9 @@ function doubleIt(num){
     return num*2;
 }
 
-const result = numbers.map(doubleIt)
+const result = numberso.map(doubleIt)
 console.log(result);
-const numbers = [2, 4, 6, 8, 10];
+const numberso = [2, 4, 6, 8, 10];
 
 const double = numbers.map(num => num * num);
 console.log(double)
